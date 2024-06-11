@@ -5,10 +5,10 @@ module.exports = {
     container: {
       center: true,
       screens: {
-        sm: '640px',
-        md: '728px',
+        sm: '100%',
         lg: '850px',
       },
+      padding: '2rem',
     },
     extend: {
       fontFamily: {
